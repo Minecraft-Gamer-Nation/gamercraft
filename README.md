@@ -2,8 +2,11 @@
 https://minecraft-gamer-nation.github.io/gamercraft/
 
 My Discord
-<div align="center">
-  <a width="100%" href="https://discord.gg/WrWhXqZyrs)"  target="_blank">
-    <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-1/759433582107426816.png">
-  </a>
-</div>
+<iframe
+    title="Discord user embed"
+    width="340"
+    height=72
+    frameborder="0"
+    sandbox="allow-scripts"
+    src="https://widgets.vendicated.dev/user?id=759433582107426816&theme=dark&banner=false&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&"
+></iframe>
