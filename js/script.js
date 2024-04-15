@@ -8,8 +8,8 @@ const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
         serverName: "GamerCraft", /*Server name*/
-        serverIp: "gamercraft97.aternos.me", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
-        discordServerID: "1180945575605182685" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
+        serverIp: "Will be given soon:)", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        discordServerID: "1188374321350053938" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
     /*Admin-Team
@@ -17,7 +17,7 @@ const config = {
     If you want to create new group, you must add this structure to adminTeamPage:
     <nameOfGroup>: [
         {
-            inGameName: "Astronavta",
+            inGameName: "GamerNation12",
             rank: "Owner",
             skinUrlOrPathToFile: "",
             rankColor: ""
@@ -46,7 +46,7 @@ const config = {
     adminTeamPage: {
         leaders: [
             {
-                inGameName: "Astronavta",
+                inGameName: "GamerNation12",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
